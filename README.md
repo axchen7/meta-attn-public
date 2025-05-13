@@ -15,7 +15,7 @@ To reproduce the results in the paper, first run the input pipeline to generate
 and compute the relevance scores for 5000 wikipedia articles:
 
 ```bash
-./scripts/run_input_pipeline.sh 10
+./scripts/run_input_pipeline.sh 5000
 ```
 
 Then, run the cells in `notebooks/results.ipynb` to generate the figures in the
